@@ -1,7 +1,7 @@
 """# Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** Prénom Nom
-**Formation :** L3 Économie / M1 Économie
+**Étudiant·e :** Marie Wattellier
+**Formation :** L3 Économie 
 **Année :** 2026-2027
 
 ## Description
